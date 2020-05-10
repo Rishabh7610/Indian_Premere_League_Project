@@ -1,0 +1,21 @@
+ 1)how many seasons we have got in dataset
+ 2)which season had the most number of matches
+ 3)which city had most matches 
+ 4)Team won by max runs?//The best defending team?
+ 5)Which Team had won by maximum runs? 
+ 6)graph-Which Team had won by maximum wickets? 
+ 7)Which Team had won by minimum runs(closest margin) runs? 
+ 8)Which Team had won by minimum wickets?
+ 9)In which city does Weather affected matches?
+ 10)Best Stadium to Bat first and Win**Best chasing venues?
+ 11)Most successful ipl team?
+ 12)top player of the matches
+ 13)Has Toss-winning helped in Match-winning?
+ 14)data where it was the first over
+ 15)list of batsmen who played the most no. of balls in the first over 
+ 16)graph to show no. of times a particular over was bowled in the whole dataset.
+ 17)list for no. of times a player was man of the match 
+ 18)pie chart for top 15 player of the match 
+ 19)bar graph for no. of times a team was the winner of the match
+ 20)toss winner of each match
+ 
